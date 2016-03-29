@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0C8D0'
+    - '#402048'
+    - '#5088A0'
+    - '#A85078'
+    - '#D888A8'
+  brandStrength: 0.27316961073537405
+  lightness: 0.03195422912458601
+  rhythmicContrast: 0.3897270387427275
+  saturation: 0.2238447382575136
+cta: {}
+layout_spectrum: 0.879111
+name: TheGridGG
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.782072
